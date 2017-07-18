@@ -1,0 +1,57 @@
+# Copyright (C) 2016 Append or Prepend Content
+# This file is distributed under the same license as the Append or Prepend Content package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Append or Prepend Content 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/app-prep-"
+"content\n"
+"POT-Creation-Date: 2016-03-17 10:30+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-03-17 10:32+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: admin.php:15
+msgid "Append or Prepend Content Settings"
+msgstr "Opciones de Append o Prepend Content"
+
+#: admin.php:28
+msgctxt "%s is the post type"
+msgid "Prepend content to %s"
+msgstr "Agregar contenido previo a %s"
+
+#: admin.php:37
+msgctxt "%s is the post type"
+msgid "Append content to %s"
+msgstr "Agregar contenido a %s"
+
+#: admin.php:61
+msgid ""
+"Allows you to append or prepend content to any Post Type on your site. "
+"Shortcodes allowed."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Append or Prepend Content"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/app-prep-content"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add content before or after every post, page or Custom Post Type"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "igmoweb"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://igmoweb.com"
+msgstr ""
